@@ -1,6 +1,10 @@
-email.cfg
-.xlsx
-# General
+.venv/
+setting/activity_config.json
+setting/applicants.txt
+setting/email_config.json
+
+*.xlsx
+
 .DS_Store
 .AppleDouble
 .LSOverride
